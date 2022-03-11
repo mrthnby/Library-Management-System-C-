@@ -1,0 +1,45 @@
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\obj\Debug\Fet-Gem Kütüphane.csprojResolveAssemblyReference.cache
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane\WindowsFormsApplication1\obj\Debug\Fet-Gem Kütüphane.csproj.GenerateResource.Cache
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane11\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane11\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane11\Fet-Gem Kütüphane\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane11\Fet-Gem Kütüphane\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane11\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane11\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane11\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MertAli\Desktop\Fet-Gem Kütüphane11\Fet-Gem Kütüphane\obj\Debug\Fet-Gem Kütüphane.csproj.GenerateResource.Cache
+C:\Users\MertAli\Documents\Visual Studio 2015\Projects\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MertAli\Documents\Visual Studio 2015\Projects\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MertAli\Documents\Visual Studio 2015\Projects\FGFEN\12.0\Fet-Gem Kütüphane\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MertAli\Documents\Visual Studio 2015\Projects\FGFEN\12.0\Fet-Gem Kütüphane\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MertAli\Documents\Visual Studio 2015\Projects\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MertAli\Documents\Visual Studio 2015\Projects\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\MertAli\Documents\Visual Studio 2015\Projects\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MertAli\Documents\Visual Studio 2015\Projects\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\Fet-Gem Kütüphane.csproj.GenerateResource.Cache
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\Fet-Gem Kütüphane.csproj.GenerateResource.Cache
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\Fet-Gem Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MertAli\Desktop\FGFEN\12.0\Fet-Gem Kütüphane\obj\Debug\Fet-Gem Kütüphane.csprojResolveAssemblyReference.cache
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\obj\Debug\Fet-Gem Kütüphane.csproj.AssemblyReference.cache
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\obj\Debug\Fet-Gem Kütüphane.csproj.GenerateResource.cache
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\obj\Debug\Fet-Gem Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\meral\Documents\CE\C#\12.0\Fet-Gem Kütüphane\obj\Debug\WindowsFormsApplication1.pdb
